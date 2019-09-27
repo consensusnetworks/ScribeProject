@@ -1,0 +1,10 @@
+setup.py
+Scribes.egg-info/PKG-INFO
+Scribes.egg-info/SOURCES.txt
+Scribes.egg-info/dependency_links.txt
+Scribes.egg-info/entry_points.txt
+Scribes.egg-info/top_level.txt
+faustapp/__init__.py
+faustapp/app.py
+faustapp/apps.py
+faustapp/migrations/__init__.py
